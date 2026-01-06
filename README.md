@@ -87,4 +87,4 @@ The full refactor history is preserved in the Git commit log.
 
 ## License
 
-MIT License (or choose your preferred license)
+MIT License
